@@ -18,9 +18,11 @@ Explore the full program here: **IBM Data Engineering Professional Certificate**
 
 ## 📁 Repository Structure
 
-.
+
 ├── code/ # Python notebooks, scripts, shell files, etc.
+
 ├── data/ # Datasets used in assignments
+
 └── proof/ # Submission proofs or final reports
 
 
