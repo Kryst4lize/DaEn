@@ -4,17 +4,17 @@ Assignment in `proof/` folder, code and data in `code/` folder to complete the c
 
 ## 📘 Course Overview
 
-This repository contains your assignments, code, datasets, and proofs from the **IBM Data Engineering Professional Certificate** on Coursera — a program designed to develop job-ready skills including ETL, data pipelines, relational and NoSQL databases, Hadoop, Spark, shell scripting, and more :contentReference[oaicite:1]{index=1}.
+This repository contains your assignments, code, datasets, and proofs from the **IBM Data Engineering Professional Certificate** on Coursera — a program designed to develop job-ready skills including ETL, data pipelines, relational and NoSQL databases, Hadoop, Spark, shell scripting, and more 
 
 **Professional Certificate Highlights:**
-- Beginner-friendly — no prior experience required :contentReference[oaicite:2]{index=2}.
+- Beginner-friendly — no prior experience required 
 - Covers relational DBs (MySQL, PostgreSQL, IBM Db2), NoSQL, Hadoop, Spark, Airflow, Kafka, and data warehousing.
 - Includes hands-on labs and a capstone project.
-- Total of 13 courses (plus introductory foundation) in the full specialization :contentReference[oaicite:3]{index=3}.
+- Total of 13 courses (plus introductory foundation) in the full specialization 
 
 ## 🔗 Course Link
 
-Explore the full program here: **IBM Data Engineering Professional Certificate** on Coursera :contentReference[oaicite:4]{index=4}
+Explore the full program here: **IBM Data Engineering Professional Certificate** on Coursera 
 
 ## 📁 Repository Structure
 
